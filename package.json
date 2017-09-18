@@ -1,6 +1,6 @@
 {
   "name": "rancher-ebs",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Docker image for creating EBS volumes and mounting them to an EC2 instance",
   "scripts": {
     "preversion": "scripts/prerelease",
