@@ -10,4 +10,4 @@ git changelog -t $VERSION
 # isn't cleared immediately
 sleep 0.5
 
-git add build History.md
+git add History.md
