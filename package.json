@@ -1,0 +1,26 @@
+{
+  "name": "rancher-ebs",
+  "version": "0.0.0",
+  "description": "Docker image for creating EBS volumes and mounting them to an EC2 instance",
+  "scripts": {
+    "preversion": "scripts/prerelease",
+    "version": "scripts/release",
+    "postversion": "scripts/postrelease"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finboxio/rancher-ebs.git"
+  },
+  "keywords": [
+    "docker",
+    "ebs",
+    "rancher",
+    "aws"
+  ],
+  "author": "finbox.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finboxio/rancher-ebs/issues"
+  },
+  "homepage": "https://github.com/finboxio/rancher-ebs#readme"
+}
